@@ -1,0 +1,19 @@
+{
+  "_comment": "STRUCTURE EXAMPLE ONLY - not usable. Download the real google-services.json from Firebase Console and save it as app/google-services.json",
+  "project_info": {
+    "project_number": "000000000000",
+    "firebase_url": "https://YOUR-PROJECT-default-rtdb.firebaseio.com",
+    "project_id": "your-project-id",
+    "storage_bucket": "your-project-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:000000000000:android:0000000000000000",
+        "android_client_info": { "package_name": "com.example.vanshmehta.prioritydo" }
+      },
+      "api_key": [ { "current_key": "YOUR_API_KEY" } ]
+    }
+  ],
+  "configuration_version": "1"
+}
